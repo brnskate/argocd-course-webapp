@@ -8,7 +8,7 @@ image:
   repository: blpskate/argocd-course-webapp
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: a076527283cc2adc1b0f01a61a5158a007addc1f
+  tag: 95a43cafdbf896f2748eaa19148e0ceb33bf6b07
 
 imagePullSecrets: []
 nameOverride: ""
